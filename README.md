@@ -1,4 +1,4 @@
-# ansible-config-mgt
+# ansible-project
 
 Update README file
 
