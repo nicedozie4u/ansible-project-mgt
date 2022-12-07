@@ -1,13 +1,3 @@
-# ansible-project
+# EXPERIENCE CONTINUOUS INTEGRATION WITH JENKINS | ANSIBLE | ARTIFACTORY | SONARQUBE | PHP
 
-Update README file
-
-Testing build
-
-Testing build again
-
-Testing my microphone
-
-Testing my microphone 02
-
-Testing save_artifacts config
+Project 14 exposed us to an end to implementation of CICD using Jenkins, Ansible, Artifactory, and SonarQube.
